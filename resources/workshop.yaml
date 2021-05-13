@@ -1,14 +1,14 @@
 apiVersion: training.eduk8s.io/v1alpha2
 kind: Workshop
 metadata:
-  name: lab-markdown-sample
+  name: lab-petahhh
 spec:
-  title: Markdown Sample
-  description: A sample workshop using Markdown
+  title: Petahhh say's AYO
+  description: Hello hello hello!
   vendor: eduk8s.io
   difficulty: beginner
   duration: 15m
-  url: https://github.com/eduk8s/lab-markdown-sample
+  url: https://github.com/petahhh/lab-petahhh
   content:
     #image: quay.io/eduk8s/lab-markdown-sample:master
     files: github.com/eduk8s/lab-markdown-sample
