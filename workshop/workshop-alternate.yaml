@@ -1,0 +1,7 @@
+name:  Petahhh alternate workshop
+
+modules:
+    activate:
+    - workshop-overview
+    - setup-environment
+    - workshop-summary
