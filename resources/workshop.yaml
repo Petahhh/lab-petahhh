@@ -11,7 +11,7 @@ spec:
   url: https://github.com/petahhh/lab-petahhh
   content:
     #image: quay.io/eduk8s/lab-markdown-sample:master
-    files: github.com/eduk8s/lab-markdown-sample
+    files: github.com/petahhh/lab-petahhh
   session:
     namespaces:
       budget: small
@@ -23,3 +23,8 @@ spec:
         enabled: true
       editor:
         enabled: true
+    env:
+      - name: RESTART_URL
+        value: https://neopets.com
+      - name: WORKSHOP_FILE
+        value: workshop-alternate.yaml
