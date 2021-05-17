@@ -1,4 +1,7 @@
 modules:
     annotating_executable_commands:
         name: Annotation of executable commands
-        exit_sign: Next
+        exit_sign: Moving onto Dashboard
+    dashboard:
+      name: Dashboard features
+      exit_sign: Done for now
