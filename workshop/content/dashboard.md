@@ -21,3 +21,22 @@ name: ExtraTerminalForYa
 url: terminal:extra-term-for-ya
 ```
 
+Let's create a web dashboard
+
+```dashboard:create-dashboard
+name: MemoryLane
+url: http://neopets.com
+```
+
+Did you ever play cards?
+
+```dashboard:reload-dashboard
+name: MemoryLane
+url: https://playingcards.io/
+```
+
+Let's cleanup and delete that
+
+```dashboard:delete-dashboard
+name: MemoryLane
+```
