@@ -1,6 +1,6 @@
-# Heyyyyy
+# Welcome to the Party
 
-Welcome to the party!
+This module contains samples diffferent annotations for executable commands that educates workshop supports
 
 ```execute
 echo "haaaaahhhh"

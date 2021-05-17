@@ -1,4 +1,4 @@
 modules:
-    slay:
-        name: We gon slay
-        exit_sign: I slay
+    annotating_executable_commands:
+        name: Annotation of executable commands
+        exit_sign: Next

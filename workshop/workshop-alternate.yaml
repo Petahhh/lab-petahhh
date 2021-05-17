@@ -2,4 +2,4 @@ name:  Petahhh alternate workshop
 
 modules:
     activate:
-    - slay
+    - annotating_executable_commands
