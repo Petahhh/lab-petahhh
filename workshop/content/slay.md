@@ -18,8 +18,8 @@ echo "hello from down under"
 echo "hello everywhere"
 ```
 
-```copy
-echo "Copy Pasta... hmmm carbs"
+```workshop:copy
+text: echo "Copy Pasta... hmmm carbs"
 ```
 
 ```terminal:execute
@@ -27,8 +27,8 @@ command: echo "Ten second tidy!"
 clear: true
 ```
 
-```copy-and-edit
-echo "Copy Pasta remix"
+```workshop:copy-and-edit
+text: echo "Copy Pasta remix"
 ```
 
 ```terminal:execute
