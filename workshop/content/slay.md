@@ -31,3 +31,11 @@ command: echo "This is a block of YAML and the preferred way to quickly let work
 session: 2
 ```
 
+```terminal:execute
+command: echo "let's take a nap" && sleep 1000
+```
+
+```terminal:interrupt
+session: 1
+```
+
