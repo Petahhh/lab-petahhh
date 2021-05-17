@@ -74,3 +74,7 @@ Okay free therapy is over:
 ```terminal:interrupt-all
 ```
 
+Let's tidy up
+
+```terminal:clear-all
+```
