@@ -4,4 +4,7 @@ modules:
         exit_sign: Moving onto Dashboard
     dashboard:
       name: Dashboard features
+      exit_sign: Let's Vogue
+    editor:
+      name: Anna Wintour powers
       exit_sign: Done for now
