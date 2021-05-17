@@ -38,9 +38,17 @@ session: 2
 
 ```terminal:execute
 command: echo "let's take a nap" && sleep 1000
+session: 1
+```
+
+```terminal:execute
+command: echo "let's take a nap" && sleep 1000
+session: 2
 ```
 
 ```terminal:interrupt
 session: 1
 ```
 
+```terminal:interrupt-all
+```
