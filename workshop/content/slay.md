@@ -22,6 +22,11 @@ echo "hello everywhere"
 echo "Copy Pasta... hmmm carbs"
 ```
 
+```terminal:execute
+command: echo "Ten second tidy!"
+clear: true
+```
+
 ```copy-and-edit
 echo "Copy Pasta remix"
 ```
