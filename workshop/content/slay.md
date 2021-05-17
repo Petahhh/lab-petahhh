@@ -52,3 +52,12 @@ session: 1
 
 ```terminal:interrupt-all
 ```
+
+```terminal:input
+text: colours
+```
+
+```terminal:input
+text: holidays
+endl: false
+```
