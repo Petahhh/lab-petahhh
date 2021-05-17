@@ -50,14 +50,27 @@ session: 2
 session: 1
 ```
 
+Let's have a heart to heart:
+
+```terminal:execute
+command: while read line; do echo "$line"; done < "/dev/stdin"
+```
+
+Let me reflect that back to you:
+
+```terminal:input
+text: this pandemic has been hard
+```
+
+Tell me more, but can you expand on that?
+
+```terminal:input
+text: the hardest part has been ...
+endl: false
+```
+
+Okay free therapy is over:
+
 ```terminal:interrupt-all
 ```
 
-```terminal:input
-text: colours
-```
-
-```terminal:input
-text: holidays
-endl: false
-```
