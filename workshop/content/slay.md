@@ -18,11 +18,4 @@ echo "hello from down under"
 echo "hello everywhere"
 ```
 
-```execute
-echo "taking a nap"
-sleep 1000
-<ctrl+c>
-echo "WAKEUP!"
-```
-
 
