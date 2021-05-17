@@ -18,4 +18,16 @@ echo "hello from down under"
 echo "hello everywhere"
 ```
 
+```copy
+echo "Copy Pasta... hmmm carbs"
+```
+
+```copy-and-edit
+echo "Copy Pasta remix"
+```
+
+```terminal:execute
+command: echo "This is a block of YAML and the preferred way to quickly let workshopers quickly execute code"
+session: 2
+```
 
